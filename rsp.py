@@ -43,7 +43,7 @@ def get_input():
     get player input
     """
     i = 0
-    player = input("// rock : 0, scissors : 1, paper : 2 //\n--> ")
+    player = input("// rock - 0, scissors - 1, paper - 2 //\n--> ")
     while not(player.isdigit() and (0 <= int(player) <= 2)):
         if(i == 0):
             player = input("input from above\n--> ")
