@@ -1,6 +1,6 @@
 """
 ========================
-Rock Scissors Paper v0.13
+Rock Scissors Paper v0.14
 ======================== 
 
 @author Jason Kim
